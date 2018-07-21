@@ -24,6 +24,8 @@ When you encounter a Codeclimate failure, you can click directly on the notice i
 
 ![Codeclimate Interface](https://raw.githubusercontent.com/powerhome/phrg-codeclimate/master/codeclimate-offense-interface.png?raw=true "Codeclimate Interface")
 
+![More Codeclimate Offenses](https://raw.githubusercontent.com/powerhome/phrg-codeclimate/master/more-example-offenses.png?raw=true "More Codeclimate Offenses")
+
 ## Resources
 
 - [Codeclimate](https://codeclimate.com/)
