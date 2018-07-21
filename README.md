@@ -11,3 +11,10 @@
 ![Failing Codeclimate Check](https://raw.githubusercontent.com/powerhome/phrg-codeclimate/master/failing-codeclimate-check.png?raw=true "Failing Codeclimate Check")
 
 ## Codeclimate Analysis
+
+
+## Resources
+
+- [Codeclimate](https://codeclimate.com/)
+- [Github webhook](https://help.github.com/articles/about-webhooks/)
+- [Thoughtbot article on Codeclimate](https://thoughtbot.com/work/code_climate)
